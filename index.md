@@ -1,4 +1,4 @@
-# to-day
+# < to-day >
 
 A simple to-do list app for today, this week, this month, and one day.
 

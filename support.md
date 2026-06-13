@@ -2,7 +2,7 @@
 
 For support, feedback, or questions about to-day, email:
 
-acreage_swoons_88@icloud.com
+Contact: [acreage_swoons_88@icloud.com](mailto:acreage_swoons_88@icloud.com)
 
 If you are reporting a bug, please include:
 
