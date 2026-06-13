@@ -32,4 +32,4 @@ If you contact support by email, I will receive the information you choose to se
 
 For privacy questions, support, or feedback, email:
 
-Contact: [acreage_swoons_88@icloud.com](mailto:acreage_swoons_88@icloud.com)
+[acreage_swoons_88@icloud.com](mailto:acreage_swoons_88@icloud.com)
