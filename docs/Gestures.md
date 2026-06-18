@@ -5,7 +5,7 @@
 Tap a task title to edit it. Finish editing to save the updated title.
 <div class="phone-shot">
 
-  <img src="../media/Screenshots/Misc/Edit-title-light.png" alt="Tedit title">
+  <img src="../media/Screenshots/Misc/Edit-title-light.png" alt="Edit title">
 
 </div>
 ## Long press for Task Info
@@ -13,9 +13,9 @@ Tap a task title to edit it. Finish editing to save the updated title.
 Press and hold a task to open the Task Info sheet. From there you can review details, add notes, rename the task, change its planning tab or planned date, and access other available actions.
 
 
-<div class="phone-shot">
+<div>
 
-  <img src="../media/Screenshots/Misc/long-press-light.png" alt="Long press">
+  <img src="../media/Screenshots/Misc/Long-Press-light.png" alt="Long press">
 
 </div>
 
