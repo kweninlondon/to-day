@@ -25,11 +25,11 @@ When the documentation is ready, this folder will be manually copied to the sepa
 
 # To build site:
 ```
-'mkdocs build'
+mkdocs build
 ```
 # To push straight to GitHub:
 ```
-'mkdocs gh-deploy'
+mkdocs gh-deploy
 ```
 ## Content rules
 
