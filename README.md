@@ -22,6 +22,11 @@ Open the local address shown by MkDocs, usually `http://127.0.0.1:8000`.
 ## Publishing
 
 When the documentation is ready, this folder will be manually copied to the separate public GitHub repository. No external publishing service is required for local previews.
+To build site:
+'mkdocs build'
+
+To push straight to GitHub:
+'mkdocs gh-deploy'
 
 ## Content rules
 
