@@ -80,3 +80,54 @@
   color: #aaaaaa;
   font-weight: 700;
 }
+
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem auto 0 auto;
+  max-width: 900px;
+}
+
+.icon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  gap: 0.5rem;
+  padding: 1.25rem 1rem;
+
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.75rem;
+  background: var(--md-default-bg-color);
+}
+
+.icon-card img {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+}
+
+
+.icon-card strong {
+  display: block;
+  margin-bottom: 0.05rem;
+}
+
+.icon-subtitle {
+  margin: 0 0 0.55rem 0;
+  font-size: 0.78rem;
+  line-height: 1.1;
+  color: var(--md-default-fg-color--light);
+}
+
+.icon-card p:not(.icon-subtitle) {
+  margin-top: 0;
+}
+/* Only collapse on genuinely narrow screens */
+@media screen and (max-width: 520px) {
+  .icon-grid {
+    grid-template-columns: 1fr;
+  }
+}

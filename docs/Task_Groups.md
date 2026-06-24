@@ -1,4 +1,4 @@
-# Task groups
+# Task Groups
 
 Task groups collect related tasks and show their combined progress.
 

@@ -1,4 +1,4 @@
-# Recurring tasks
+# Recurring Tasks
 
 Recurring tasks help with tasks that repeats. Create and manage them in the **recurring tab**.
 

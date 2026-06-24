@@ -17,11 +17,12 @@ nav:
   - Home: index.md
   - Help:
     - At a glance: At_a_glance.md
-    - App terminology: App_Terminology.md
-    - Tabs & views: Views.md
+    - App Terminology: App_Terminology.md
+    - Icon Glossary: icons.md
+    - Tabs & Views: Views.md
     - Gestures: Gestures.md
-    - Recurring tasks: Recurring_Tasks.md
-    - Task groups: Task_Groups.md
+    - Recurring Tasks: Recurring_Tasks.md
+    - Task Groups: Task_Groups.md
     - Statistics: Statistics.md
     - Settings: Settings.md
     - Troubleshooting: Troubleshooting.md

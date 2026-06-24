@@ -1,4 +1,4 @@
-# Statistics tab
+# Statistics
 
 The **statistics tab** gives you an overview of how tasks move from planning to completion.
 <div class="phone-shot">

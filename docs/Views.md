@@ -1,4 +1,4 @@
-# Tabs & views
+# Tabs & Views
 
 ## To-day tab
 

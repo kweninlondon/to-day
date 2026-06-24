@@ -1,4 +1,4 @@
-# App terminology
+# App Terminology
 
 ## App structure
 
