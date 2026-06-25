@@ -194,7 +194,7 @@ These icons are used when moving a task from one view to another.
 Some task actions use the same destination icons, but the small `+` badge changes the meaning.
 
 <div class="image-reference">
-  <img src="../media/icons/Copy-All-icons.png" alt="Copy to options showing to-day, tomorrow, this week, this month, One Day, and recurring">
+  <img src="../media/icons/Copy-All-Icons.png" alt="Copy to options showing to-day, tomorrow, this week, this month, One Day, and recurring">
 </div>
 
 **Copy to** creates another version of the task in the selected destination.  
