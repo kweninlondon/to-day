@@ -131,3 +131,55 @@
     grid-template-columns: 1fr;
   }
 }
+
+
+/* App Store nav item: normal text fallback */
+.md-nav__link[href*="apps.apple.com"] {
+  position: relative !important;
+  display: block !important;
+  width: 135px !important;
+  height: 40px !important;
+  margin-top: 1rem !important;
+  padding: 0 !important;
+
+  /* normal MkDocs-style fallback */
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  color: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+  text-align: left !important;
+}
+
+/* Keep the normal nav text underneath */
+.md-nav__link[href*="apps.apple.com"] .md-ellipsis {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Badge overlay */
+.md-nav__link[href*="apps.apple.com"]::before {
+  content: "";
+  position: absolute;
+
+  /* slightly oversized so no text/edge peeks through */
+  top: -2px;
+  left: -2px;
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+
+  z-index: 2;
+  background-image: url("../Utilities/Download_on_the_App_Store_Black.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+
+  pointer-events: none;
+}
+
+/* Hover badge */
+.md-nav__link[href*="apps.apple.com"]:hover::before {
+  background-image: url("../Utilities/Download_on_the_App_Store_White.svg");
+}
