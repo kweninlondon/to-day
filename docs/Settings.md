@@ -29,6 +29,15 @@ The coloured circle shows when if a task was or will be completed in the intende
 
 You can turn coloured status circles off. When off, active tasks appear grey and completed tasks appear green.
 
+## Appearance
+Choose between alway bright mode, always dark mode or to follow your system preferences.
+
+
+<div>
+
+  <img src="../media/Screenshots/Misc/Dark_Bright_Mode.png" alt="Dark and Bright Mode.png">
+
+</div>
 ## Day, week, and month boundaries
 
 - **Day starts at** changes when to-day moves from one logical day to the next.
@@ -40,6 +49,12 @@ These choices affect which tasks appear in the current and previous time-period 
 ## Task visibility
 
 Choose whether to show completed tasks, creation dates, completion dates, and archived tasks.
+
+## Hide statistics
+
+Statistics should feel helpful, not stressful.
+
+If they are not useful to you, you can hide, you will not lose any data, and you can turn them back on whenever you feel like it.
 
 ## Tips and Info
 

@@ -66,6 +66,11 @@ The **statistics tab** shows completion summaries, graphs, timing information, p
   <img src="../media/Screenshots/Misc/Statistics-main-light.png" alt="Statistics tab">
 </div>
 
+Statistics should feel helpful, not stressful.
+
+If they are not useful to you, you can hide them from the settings sheet. You will not lose any data, and you can turn them back on whenever you feel like it.
+
+
 ## Settings
 The Settings sheet controls task layout, date boundaries, visibility options, and access to Tips, app information, storage summaries, and Trash.
 

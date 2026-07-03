@@ -2,7 +2,7 @@
 
 Questions, feedback, and bug reports are welcome.
 
-Email: [acreage_swoons_88@icloud.com](mailto:acreage_swoons_88@icloud.com)
+Email: [to-day@kweninlondon.com](mailto:to-day@kweninlondon.com)
 
 ## Bug reports
 

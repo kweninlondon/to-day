@@ -5,6 +5,11 @@ The **statistics tab** gives you an overview of how tasks move from planning to 
 
   <img src="../media/Screenshots/Misc/Statistics-main-light.png" alt="Statistics tab">
 </div>
+
+Statistics should feel helpful, not stressful.
+
+If they are not useful to you, you can hide them from the settings sheet. You will not lose any data, and you can turn them back on whenever you feel like it.
+
 ## Completion rates
 
 The all-time overview shows the share of stored tasks you have completed. Smaller rings show completion rates for the **to-day**, **this week**, **this month**, and **one day** tabs.
