@@ -167,8 +167,8 @@
   /* slightly oversized so no text/edge peeks through */
   top: -2px;
   left: -2px;
-  width: calc(100% + 4px);
-  height: calc(100% + 4px);
+  width: calc(100% + 10px);
+  height: calc(100% + 10px);
 
   z-index: 2;
   background-image: url("../Utilities/Download_on_the_App_Store_Black.svg");
