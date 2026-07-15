@@ -4,7 +4,7 @@
   <img src="media/Screenshots/Today/today-main-light.png" alt="Today view in the to-day tab">
 </figure>
 
-To-day is a simple task app that helps clear your mind. Inspired by the feeling of organizing thoughts on paper, it lets you sort tasks into today, this week, this month, or one day.
+To-day is a simple to-do app that helps clear your mind. Inspired by the feeling of organizing thoughts on paper, it lets you sort tasks into today, this week, this month, or one day.
 
 ## Get started
 

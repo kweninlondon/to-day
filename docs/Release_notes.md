@@ -1,5 +1,22 @@
 # Release Notes
 
+## v1.3
+
+- 🗂️ Groups:
+    - Brought back chevron on groups.
+    - New icon for Completed groups.
+    - Task title looks better when removing a group
+    - You can now move a whole group to any timeframe with long press
+
+- ⚙️ Settings:
+    - Added "What's new" sheet.
+    - Tip icon is now 50% bigger.
+    - Start of day, week and month are now synced with iCloud (optional)
+
+- 🐛 Bug fixes:
+    - Fixed moving a task from a previous timeframe to current frame
+    - Permanently deleting a task now removes its todo events (Saving data space)
+
 ## v1.2
 
 - 🗂️ Groups:
