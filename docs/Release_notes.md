@@ -1,5 +1,51 @@
 # Release Notes
 
+## v1.4
+
+- 📝 Notes:
+    - Task notes now support Markdown formatting.
+    - Added bullet list, numbered list, checklist and link shortcuts.
+    - Added formatting keyboard shortcuts to both the Task Info editor and full-screen note editor.
+    - Added interactive checklists to Task Info and expanded task notes.
+    - Added named links.
+    - Selecting text or a web address prefills the link editor.
+    - Existing links can be edited from the writing cursor.
+
+- 📊 Statistics:
+    - Added week, month and year ranges to the Statistics Overview.
+    - Recurring task statistics now include historical data.
+    - Improved Statistics insight wording.
+
+- ℹ️ Task Info:
+    - Group and task titles are now displayed separately.
+    - Added group suggestions when editing tasks in Task Info.
+    - Groups can now be added to ungrouped tasks from Task Info.
+    - Improved grouped task title editing and confirmation controls.
+    - Add note checklist.
+    - Added a full-screen note editor.
+
+- 🗂️ Groups:
+    - Improved group status circle colours.
+    - Improved group completion progress appearance.
+    - Task groups now stay together when using the Bottom layout.
+
+- 💄 Interface improvements:
+    - Added check list to main ui
+    - Improved note, checklist and recurring section chevron placement.
+    - Improved expanded note spacing and layout.
+
+- 🐛 Bug fixes:
+    - Fixed the group Back button not always responding.
+    - Fixed task cards briefly flashing with the wrong appearance.
+    - Fixed note editing not always opening or focusing correctly.
+    - Fixed completed recurring tasks not following the same completion-date order as regular tasks.
+    - Fixed completed and incomplete tasks being ordered incorrectly inside open groups.
+    - Fixed the Coloured Status Circles setting not applying correctly to groups.
+    - Fixed untouched groups appearing faint green instead of grey.
+    - Fixed completed group progress appearing incorrectly in the One Day view.
+
+---
+
 ## v1.3
 
 - 🗂️ Groups:
