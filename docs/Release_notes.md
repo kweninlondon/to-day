@@ -1,5 +1,53 @@
 # Release Notes
 
+## v1.4
+
+- 📝 Notes:
+    - Add checklists to task notes and tick off items directly from the task list or Task Info.
+    - Task notes now support Markdown, including bullet lists, numbered lists and links.
+    - Reorder checklist items using the drag handles in Task Info.
+    - Added bullet list, numbered list, checklist and link shortcuts to the inline and full-screen note editors.
+    - Added named links. Selecting text or a web address prefills the link editor, and existing links can be edited from the cursor.
+    - Added a full-screen note editor.
+
+- 📊 Statistics:
+    - Added Week, Month, Year to Date and Year ranges to the Statistics Overview. Year ranges appear when they show different results.
+    - Recurring task statistics now include historical data.
+    - Improved Statistics insight wording and planning advice.
+
+- ℹ️ Task Info:
+    - Group and task titles are now displayed separately.
+    - Added group suggestions when editing tasks, including adding a group to an ungrouped task.
+    - Improved grouped task title editing and confirmation controls.
+
+- 🗂️ Groups:
+    - Reorder tasks inside a group using the new order button in the top-right corner, or from the group's long-press sheet.
+    - Group moves can now ask whether to include completed tasks.
+    - Improved group status colours and completion progress, including tasks completed early or late.
+    - Task groups now stay together when using the Bottom layout.
+
+- ⚙️ Settings:
+    - Added an animated checklist tip, also linked from What's New.
+
+- 💄 Interface improvements:
+    - Improved note, checklist and recurring section chevron placement.
+    - Improved expanded note spacing, checklist layout and reordering feedback.
+
+- 🐛 Bug fixes:
+    - Fixed the group Back button not always responding.
+    - Fixed task cards briefly flashing with the wrong appearance and sheets not consistently following the saved theme.
+    - Fixed note editing not always opening or focusing correctly.
+    - Fixed list insertion and continuation at the cursor, including when Return accepts keyboard autocorrection.
+    - Fixed checklist taps not reliably updating items, and grouped task checklists collapsing after a tap.
+    - Fixed completed recurring tasks not following the same completion-date order as regular tasks.
+    - Fixed completed and incomplete task ordering inside open groups, including after completing a task.
+    - Fixed the Coloured Status Circles setting not applying correctly to groups.
+    - Fixed untouched groups appearing faint green instead of grey, and completed group progress in One Day.
+    - Fixed moving tasks and groups from previous weeks or months into the current period, including confirmation and navigation from the move message.
+    - Fixed the completed-tasks chart for the year view.
+
+---
+
 ## v1.3
 
 - 🗂️ Groups:

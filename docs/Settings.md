@@ -58,7 +58,9 @@ If they are not useful to you, you can hide, you will not lose any data, and you
 
 ## Tips and Info
 
-The Tips sheet provides short demonstrations of useful app actions. Info contains details about the app.
+The Tips sheet provides short demonstrations of useful app actions, including creating a checklist in a task note. Info contains details about the app.
+
+What's New lists the changes in each version.
 
 ## Trash
 

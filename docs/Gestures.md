@@ -19,6 +19,12 @@ Press and hold a task to open the Task Info sheet. From there you can review det
 
 </div>
 
+## Expand a note or checklist
+
+Tap the disclosure arrow on a task to show its note and checklist. Tap a checklist item's circle to mark that item complete or incomplete.
+
+To change the text or reorder checklist items, open Task Info. See [Task notes and checklists](Task_Notes.md).
+
 ## Swipe right
 
 Swipe a task to the right to reveal actions such as complete or mark incomplete. The available shortcuts depend on the task, tab, and view you are using.

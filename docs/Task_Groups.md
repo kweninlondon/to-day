@@ -33,6 +33,8 @@ Group suggestions are available inside groups too. Tapping a new group will move
 
 Group suggestions can be used before or after typing the task title.
 
+They are also available in **Task Info**. Touch and hold a task to open it. The group name and task title have separate editing fields, and you can add a group to a task that does not already have one.
+
 <div>
 
   <img src="../media/Screenshots/Misc/Group-suggestion-light.png" alt="Task group">
@@ -65,3 +67,18 @@ This affects only the tasks in the current timeframe.
   <img src="../media/Screenshots/Misc/Group-rename-light.png" alt="Task group">
 
 </div>
+
+## Reorder tasks inside a group
+
+1. Open the group.
+2. Tap the order button in the top-right corner.
+3. Drag the handles to arrange the tasks.
+4. Tap **Done** to save, or **Cancel** to keep the previous order.
+
+Reordering is also available from the group's long-press sheet. Your layout setting still determines how completed and incomplete tasks are arranged.
+
+## Move a group
+
+Touch and hold a group, then choose a destination timeframe. If asked whether to move completed tasks too, choose **Yes** to include them or **No** to move only incomplete tasks.
+
+You can also move groups from previous weeks or months into the current period. Tap the confirmation message to go to the destination.

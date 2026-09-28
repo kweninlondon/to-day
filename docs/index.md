@@ -18,6 +18,7 @@ New to to-day? Start with the basics:
 
 - [Recurring tasks](Recurring_Tasks.md)
 - [Task groups](Task_Groups.md)
+- [Task notes and checklists](Task_Notes.md)
 - [Statistics](Statistics.md)
 - [Settings](Settings.md)
 
