@@ -18,6 +18,12 @@ Open the Settings sheet, then select **Trash**.
 - Restore a recently deleted task from the Deleted list.
 - Deleted tasks remain restorable for 30 days before their identifying content is anonymised.
 
+## My tasks are taking a while to sync
+
+When you first install to-day on a new device, or return to the app after a while, iCloud may need time to catch up. Your tasks and changes may appear gradually, and syncing can continue even after the “iCloud syncing” message disappears. The message disappearing does not necessarily mean that all your data has finished loading.
+
+Make sure your devices use the same Apple Account for iCloud and are connected to the internet. Leave to-day open and give it time to catch up.
+
 ## My tasks look different on another device
 
 Make sure both devices use the same Apple Account for iCloud and that iCloud is available. Allow time for changes to sync, then reopen to-day on both devices.
